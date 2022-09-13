@@ -1,0 +1,5 @@
+  Some Designing notes for continuation
+  for article m-6 for mob
+
+
+  subheading are 5xl for desktop view. mobile view : 3xl
