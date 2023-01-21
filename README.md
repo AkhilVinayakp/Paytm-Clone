@@ -14,4 +14,12 @@ Playtm clone with tailwind csss
 
 
 # Link
-[Demo](https://paytm-v0.netlify.app/)
+[Demo](https://luxury-sherbet-45bfa8.netlify.app/)
+
+
+# All Tailwind Clones
+| Name | Source Code | Live |
+| ---- | ----------- | -----|
+|Paytm Clone| [code](https://github.com/AkhilVinayakp/Paytm-Clone) | [Deployed Link](https://luxury-sherbet-45bfa8.netlify.app/)|
+| Shopify Clone| [Code](https://github.com/AkhilVinayakp/shopify-clone)| [Deployed Link](https://shopify-v0.netlify.app/)|
+| RodeClone| [code](https://github.com/AkhilVinayakp/rode_clone) | [Deployed Link](https://rode-clone-v0.netlify.app/)|
